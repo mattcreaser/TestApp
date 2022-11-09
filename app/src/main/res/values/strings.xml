@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TestApp</string>
+
+    <!-- Generic Strings -->
+    <string name="button_submit">Submit</string>
+
+    <!-- Login Screen -->
+    <string name="register_label_email">Email</string>
+    <string name="register_label_password">Password</string>
+    <string name="login_button_login">Login</string>
+    <string name="login_button_register">Register</string>
+    <string name="login_label_code">Confirmation Code</string>
+    <string name="login_confirm_message">Please check %s for your confirmation code</string>
+
+    <!-- Main Screen -->
+
+
+    <!-- Main Menu -->
+    <string name="menu_item_signout">Sign Out</string>
+    <string name="menu_item_profile">Profile</string>
+
+</resources>
